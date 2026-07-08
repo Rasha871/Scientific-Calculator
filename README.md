@@ -1,3 +1,3 @@
  There are 8 members in our group. (Member 1 & 2 - Rasha, Kadheeja Responsible for 0-9 Number Buttons), (Member3 & 4 - Amna & Najma Responsible for Scientific Function panel), (Member5 & 6 - Inshifa & Shimla Responsible for Scintific Calculator Operation buttons), (Member 7 & 8 - Nuha & Hamdha Responsible for Basic Arithmetic Control) I'm Rasha. I'm Group Leader and Member 1 (Rasha) of the Scientific Calculator project.I  responsible for creating and managing the GitHub repository, adding team members, merging branches, final integration, testing, and project submission. And responsible for developing the number buttons of our scientific calculator (0–9) too.  
-I’m Kadheeja. Member 2 I’m responsible for developing the number buttons of our scientific calculator (0–9)
+I’m Kadheeja. Member 2 I’m responsible for developing the number buttons of our scientific calculator (0–9)  
 I’m Nuha. Member 7 I’m responsible for developing basic arithmetic contorls.
