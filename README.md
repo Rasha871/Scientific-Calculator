@@ -4,3 +4,4 @@ I’m Nuha. Member 7 I’m responsible for developing basic arithmetic contorls.
 I’m Najma. Member 4 I’m responsible for Scientific Function panel .
 I am Amna. Member 3 I’m responsible for Scientific Function panel .
 Iam Member 6 Shimla  responsible for developing and managing the Scientific Calculator Operation buttons. Her tasks include implementing calculator operation functions, handling button actions, ensuring correct calculations, and testing the operation-related features to make sure they work properly with other calculator components.
+Im Hamdha Member 8 im responsible for developing the Basic Arithmetic Control section of the Scientific Calculator. My  tasks include implementing basic arithmetic operations such as addition, subtraction, multiplication, and division, handling user inputs, and ensuring the arithmetic functions integrate correctly with the complete calculator system.
