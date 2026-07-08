@@ -2,3 +2,4 @@
 I’m Kadheeja. Member 2 I’m responsible for developing the number buttons of our scientific calculator (0–9)  
 I’m Nuha. Member 7 I’m responsible for developing basic arithmetic contorls.
 I’m Najma. Member 4 I’m responsible for Scientific Function panel .
+I am Amna. Member 3 I’m responsible for Scientific Function panel .
